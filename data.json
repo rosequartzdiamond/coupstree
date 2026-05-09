@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 1,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 01 Barely",
+    "price": "Rp 130.000",
+    "image": "img/lip1.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 2,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 02 Sequence",
+    "price": "Rp 130.000",
+    "image": "img/lip2.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 3,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 03 Stranger",
+    "price": "Rp 130.000",
+    "image": "img/lip3.png",
+    "category": "lipstick"
+  }, 
+  {
+    "id": 4,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 04 Affectopn",
+    "price": "Rp 130.000",
+    "image": "img/lip4.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 5,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 05 Stunnning",
+    "price": "Rp 130.000",
+    "image": "img/lip5.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 6,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 06 Notable",
+    "price": "Rp 130.000",
+    "image": "img/lip6.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 7,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 07 Chillin",
+    "price": "Rp 130.000",
+    "image": "img/lip7.png",
+    "category": "lipstick"
+  },
+  {
+    "id": 8,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 08 Dominant",
+    "price": "Rp 130.000",
+    "image": "img/lip8.png",
+    "category": "lipstick"
+  }, 
+   {
+    "id": 9,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 09 Perception",
+    "price": "Rp 130.000",
+    "image": "img/lip9.png",
+    "category": "lipstick"
+  }, 
+   {
+    "id": 10,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 10 Undone",
+    "price": "Rp 130.000",
+    "image": "img/lip10.png",
+    "category": "lipstick"
+  }, 
+   {
+    "id": 11,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 11 Poise",
+    "price": "Rp 130.000",
+    "image": "img/lip11.png",
+    "category": "lipstick"
+  },  
+  {
+    "id":12,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 12 Symbol",
+    "price": "Rp 130.000",
+    "image": "img/lip12.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 13,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 13 Appeal",
+    "price": "Rp 130.000",
+    "image": "img/lip13.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 14,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 14 Tension",
+    "price": "Rp 130.000",
+    "image": "img/lip14.png",
+    "category": "lipstick"
+  }, 
+   {
+    "id": 15,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 15 Prider",
+    "price": "Rp 130.000",
+    "image": "img/lip15.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 16,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 16 After",
+    "price": "Rp 130.000",
+    "image": "img/lip16.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 17,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 17 Softie",
+    "price": "Rp 130.000",
+    "image": "img/lip17.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 18,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 18 Knockout",
+    "price": "Rp 130.000",
+    "image": "img/lip18.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 19,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 19 Lavish",
+    "price": "Rp 130.000",
+    "image": "img/lip19.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 20,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 20 Pleasure",
+    "price": "Rp 130.000",
+    "image": "img/lip20.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 21,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 21 Melted",
+    "price": "Rp 130.000",
+    "image": "img/lip21.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 22,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 22 Pairing",
+    "price": "Rp 130.000",
+    "image": "img/lip22.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 23,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 23 Dawn Rose",
+    "price": "Rp 130.000",
+    "image": "img/lip23.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 24,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 24 Gypsy Rose",
+    "price": "Rp 130.000",
+    "image": "img/lip24.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 25,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 25 Whisper",
+    "price": "Rp 130.000",
+    "image": "img/lip25.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 26,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 26 Oddy",
+    "price": "Rp 130.000",
+    "image": "img/lip26.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 27,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 27 Spinel",
+    "price": "Rp 130.000",
+    "image": "img/lip27.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 28,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 28 Mania",
+    "price": "Rp 130.000",
+    "image": "img/lip28.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 29,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 29 Chocolat",
+    "price": "Rp 130.000",
+    "image": "img/lip29.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 30,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 30 Sakura",
+    "price": "Rp 130.000",
+    "image": "img/lip30.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 31,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 31 Mellow",
+    "price": "Rp 130.000",
+    "image": "img/lip31.png",
+    "category": "lipstick"
+  },  
+  {
+    "id": 32,
+    "brand": "Muzigae Mansion",
+    "name": "Velvet Matte Lipstick - 32 Mocha",
+    "price": "Rp 130.000",
+    "image": "img/lip32.png",
+    "category": "lipstick"
+  },  
+   {
+    "id": 33,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 02 Pink Rose",
+    "price": "Rp 70.000",
+    "image": "img/blush1.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 34,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 03 Peach",
+    "price": "Rp 70.000",
+    "image": "img/blush2.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 35,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 06 Peach Mousse",
+    "price": "Rp 70.000",
+    "image": "img/blush3.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 35,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 45 Nude Beige",
+    "price": "Rp 70.000",
+    "image": "img/blush4.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 36,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 36 Baked Milk Tea",
+    "price": "Rp 70.000",
+    "image": "img/blush5.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 37,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 41 Beige Coral",
+    "price": "Rp 70.000",
+    "image": "img/blush6.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 38,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 69 Lazy Apricot",
+    "price": "Rp 70.000",
+    "image": "img/blush7.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 39,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 48 Ash Pink",
+    "price": "Rp 70.000",
+    "image": "img/blush8.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 40,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 66 Secret Love Peach",
+    "price": "Rp 70.000",
+    "image": "img/blush9.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 41,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 60 Peachy Peach",
+    "price": "Rp 70.000",
+    "image": "img/blush10.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 42,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 50 First Crush",
+    "price": "Rp 70.000",
+    "image": "img/blush11.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 43,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 39 Smoky Rose",
+    "price": "Rp 70.000",
+    "image": "img/blush12.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 44,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 34 Maple Brown",
+    "price": "Rp 70.000",
+    "image": "img/blush13.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 45,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 49 Creamy Peach",
+    "price": "Rp 70.000",
+    "image": "img/blush14.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 46,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 43 Blueberry Night",
+    "price": "Rp 70.000",
+    "image": "img/blush15.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 47,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 44 Strawberry Milkshake",
+    "price": "Rp 70.000",
+    "image": "img/blush16.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 48,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 68 Sleeping Grape",
+    "price": "Rp 70.000",
+    "image": "img/blush17.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 49,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 04 Juicy Melon",
+    "price": "Rp 70.000",
+    "image": "img/blush18.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 50,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 49 Creamy Peach",
+    "price": "Rp 70.000",
+    "image": "img/blush19.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 51,
+    "brand": "JudyDoll",
+    "name": "Powder Blush - 63 Sweet Berries",
+    "price": "Rp 70.000",
+    "image": "img/blush20.png",
+    "category": "blush on"
+  }, 
+  {
+    "id": 52,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #1 Nude Beige",
+    "price": "Rp 99.000",
+    "image": "img/blush22.png",
+    "category": "blush on"
+  },
+  {
+    "id": 53,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #2 Deep Plum",
+    "price": "Rp 99.000",
+    "image": "img/blush23.png",
+    "category": "blush on"
+  },
+  {
+    "id": 54,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #3 Rose Brown",
+    "price": "Rp 99.000",
+    "image": "img/blush24.png",
+    "category": "blush on"
+  },
+  {
+    "id": 55,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #4 Lavender Flush",
+    "price": "Rp 99.000",
+    "image": "img/blush25.png",
+    "category": "blush on"
+  },
+  {
+    "id": 56,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #5 Peach Coral",
+    "price": "Rp 99.000",
+    "image": "img/blush26.png",
+    "category": "blush on"
+  },
+  {
+    "id": 57,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #6 Cherry Blossom",
+    "price": "Rp 99.000",
+    "image": "img/blush27.png",
+    "category": "blush on"
+  },
+  {
+    "id": 58,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #7 Pink Rosie",
+    "price": "Rp 99.000",
+    "image": "img/blush28.png",
+    "category": "blush on"
+  },
+  {
+    "id": 59,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #8 Berry Purple",
+    "price": "Rp 99.000",
+    "image": "img/blush29.png",
+    "category": "blush on"
+  },
+  {
+    "id": 60,
+    "brand": "House of Hur",
+    "name": "Moist Ampoule Blusher - #9 Ruby Red",
+    "price": "Rp 99.000",
+    "image": "img/blush30.png",
+    "category": "blush on"
+  },
+  {
+    "id": 61,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C11 Pink Marble",
+    "price": "Rp 215.000",
+    "image": "img/cushion1.png",
+    "category": "cushion"
+  },
+  {
+    "id": 62,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C21 Pink Ivory",
+    "price": "Rp 215.000",
+    "image": "img/cushion2.png",
+    "category": "cushion"
+  },
+  {
+    "id": 63,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C31 Pink Beige",
+    "price": "Rp 215.000",
+    "image": "img/cushion3.png",
+    "category": "cushion"
+  },
+  {
+    "id": 64,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C41 Cool Sand",
+    "price": "Rp 215.000",
+    "image": "img/cushion4.png",
+    "category": "cushion"
+  },
+  {
+    "id": 65,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C51 Cool Tan",
+    "price": "Rp 215.000",
+    "image": "img/cushion5.png",
+    "category": "cushion"
+  },
+  {
+    "id": 66,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - C62 Rich Cocoa",
+    "price": "Rp 215.000",
+    "image": "img/cushion6.png",
+    "category": "cushion"
+  },
+  {
+    "id": 67,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N00 Porcelain",
+    "price": "Rp 215.000",
+    "image": "img/cushion7.png",
+    "category": "cushion"
+  },
+  {
+    "id": 68,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N10 Marble",
+    "price": "Rp 215.000",
+    "image": "img/cushion8.png",
+    "category": "cushion"
+  },
+  {
+    "id": 69,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N20 Ivory",
+    "price": "Rp 215.000",
+    "image": "img/cushion9.png",
+    "category": "cushion"
+  },
+  {
+    "id": 70,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N30 Natural Beige",
+    "price": "Rp 215.000",
+    "image": "img/cushion10.png",
+    "category": "cushion"
+  }, 
+  {
+    "id": 71,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N40 Sand",
+    "price": "Rp 215.000",
+    "image": "img/cushion11.png",
+    "category": "cushion"
+  },
+  {
+    "id": 72,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N50 Tan",
+    "price": "Rp 215.000",
+    "image": "img/cushion12.png",
+    "category": "cushion"
+  },
+  {
+    "id": 73,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - N70 Ebony",
+    "price": "Rp 215.000",
+    "image": "img/cushion13.png",
+    "category": "cushion"
+  },
+  {
+    "id": 74,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W12 Warm Marble",
+    "price": "Rp 215.000",
+    "image": "img/cushion14.png",
+    "category": "cushion"
+  },
+  {
+    "id": 75,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W20 Creme Ivory",
+    "price": "Rp 215.000",
+    "image": "img/cushion15.png",
+    "category": "cushion"
+  },
+  {
+    "id": 76,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W21 Coral Ivory",
+    "price": "Rp 215.000",
+    "image": "img/cushion16.png",
+    "category": "cushion"
+  },
+  {
+    "id": 77,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W22 Warm Ivory",
+    "price": "Rp 215.000",
+    "image": "img/cushion17.png",
+    "category": "cushion"
+  },
+  {
+    "id": 78,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W30 Creme Beige",
+    "price": "Rp 215.000",
+    "image": "img/cushion18.png",
+    "category": "cushion"
+  },
+  {
+    "id": 79,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W32 Warm Beige",
+    "price": "Rp 215.000",
+    "image": "img/cushion19.png",
+    "category": "cushion"
+  },
+  {
+    "id": 80,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W33 Honey Beige",
+    "price": "Rp 215.000",
+    "image": "img/cushion20.png",
+    "category": "cushion"
+  },
+  {
+    "id": 81,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W40 Creme Sand",
+    "price": "Rp 215.000",
+    "image": "img/cushion21.png",
+    "category": "cushion"
+  },
+  {
+    "id": 82,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W41 Coral Sand",
+    "price": "Rp 215.000",
+    "image": "img/cushion22.png",
+    "category": "cushion"
+  },
+  {
+    "id": 83,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W42 Warm Sand",
+    "price": "Rp 215.000",
+    "image": "img/cushion23.png",
+    "category": "cushion"
+  },
+  {
+    "id": 84,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W50 Creme Tan",
+    "price": "Rp 215.000",
+    "image": "img/cushion24.png",
+    "category": "cushion"
+  },
+  {
+    "id": 85,
+    "brand": "Make Over",
+    "name": "Powerstay Cushion - W60 Creme Cocoa",
+    "price": "Rp 215.000",
+    "image": "img/cushion25.png",
+    "category": "cushion"
+  },
+  {
+    "id": 86,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 07 Vanilla",
+    "price": "Rp 135.000",
+    "image": "img/powder8.png",
+    "category": "powder"
+  },
+  {
+    "id": 87,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 05 Snow",
+    "price": "Rp 135.000",
+    "image": "img/powder1.png",
+    "category": "powder"
+  },
+  {
+    "id": 88,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 02 Rosy",
+    "price": "Rp 135.000",
+    "image": "img/powder2.png",
+    "category": "powder"
+  },
+  {
+    "id": 89,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 08 Feather",
+    "price": "Rp 135.000",
+    "image": "img/powder3.png",
+    "category": "powder"
+  },
+  {
+    "id": 90,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 03 Champagne",
+    "price": "Rp 135.000",
+    "image": "img/powder4.png",
+    "category": "powder"
+  },
+  {
+    "id": 91,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 04 Toffee",
+    "price": "Rp 135.000",
+    "image": "img/powder5.png",
+    "category": "powder"
+  },
+  {
+    "id": 92,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 06 Buttermilk",
+    "price": "Rp 135.000",
+    "image": "img/powder6.png",
+    "category": "powder"
+  },
+  {
+    "id": 93,
+    "brand": "Make Over",
+    "name": "Powerstay Loose Powder - 01 Porcelain",
+    "price": "Rp 135.000",
+    "image": "img/powder7.png",
+    "category": "powder"
+  },
+  {
+    "id": 94,
+    "brand": "MAANGE",
+    "name": "Eyebrow Pencil - #B201 Bistre",
+    "price": "Rp 35.000",
+    "image": "img/eyebrow1.png",
+    "category": "eyebrow"
+  },
+  {
+    "id": 95,
+    "brand": "MAANGE",
+    "name": "Eyebrow Pencil - #B202 Brown",
+    "price": "Rp 35.000",
+    "image": "img/eyebrow2.png",
+    "category": "eyebrow"
+  },
+  {
+    "id": 96,
+    "brand": "MAANGE",
+    "name": "Eyebrow Pencil - #B203 Chocolate",
+    "price": "Rp 35.000",
+    "image": "img/eyebrow3.png",
+    "category": "eyebrow"
+  },
+  {
+    "id": 97,
+    "brand": "MAANGE",
+    "name": "Eyebrow Pencil - #B204 Tan",
+    "price": "Rp 35.000",
+    "image": "img/eyebrow4.png",
+    "category": "eyebrow"
+  },
+  {
+    "id": 98,
+    "brand": "MAANGE",
+    "name": "Eyeliner - #B101 Black",
+    "price": "Rp 35.000",
+    "image": "img/eyeliner1.png",
+    "category": "eyeliner"
+  },
+  {
+    "id": 99,
+    "brand": "MAANGE",
+    "name": "Eyeliner - #B201 Brown",
+    "price": "Rp 35.000",
+    "image": "img/eyeliner2.png",
+    "category": "eyeliner"
+  },
+  {
+    "id": 100,
+    "brand": "MAANGE",
+    "name": "Eyeliner - #B202 Tan",
+    "price": "Rp 35.000",
+    "image": "img/eyeliner3.png",
+    "category": "eyeliner"
+  },
+{
+    "id": 101,
+    "brand": "Time Phoria",
+    "name": "Contour - 01 Lunar",
+    "price": "Rp 85.000",
+    "image": "img/contour1.png",
+    "category": "contour"
+  },
+  {
+    "id": 102,
+    "brand": "Time Phoria",
+    "name": "Contour - 02 Umbra",
+    "price": "Rp 85.000",
+    "image": "img/contour2.png",
+    "category": "contour"
+  },
+  {
+    "id": 103,
+    "brand": "Time Phoria",
+    "name": "Contour - 03 Solar",
+    "price": "Rp 85.000",
+    "image": "img/contour3.png",
+    "category": "contour"
+  },
+  {
+    "id": 104,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #01 Coral Studio",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow1.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 105,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #02 Rose Connect",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow2.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 106,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #03 Mute Library",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow3.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 107,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #04 Pink Pairing",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow4.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 108,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #05 Orchid Cloud",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow5.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 109,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #07 Lavender Staff",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow6.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 110,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #11 Shopping Cheese",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow8.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 111,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - W-05 Little Devil",
+    "price": "Rp 45.000",
+    "image": "img/fl1.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 112,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - W-08 Royal Orchid",
+    "price": "Rp 45.000",
+    "image": "img/fl2.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 113,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - W-09 Thistle White",
+    "price": "Rp 45.000",
+    "image": "img/fl3.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 114,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - WTB-S02 Pink Peach Foxy",
+    "price": "Rp 45.000",
+    "image": "img/fl4.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 115,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #08 Latte Senior",
+    "price": "Rp 250.000",
+    "image": "img/eyshadow7.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 116,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - #12 Crystal Paw",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow9.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 117,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - Harry Potter Edition (Golden Snitch)",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow10.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 118,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - Harry Potter Edition (Love Potion)",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow11.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 119,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - Harry Potter Edition (Flying Car)",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow12.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 120,
+    "brand": "Clio",
+    "name": "Pro Eye Palette Air - Toy Story Edition (Bo Peep)",
+    "price": "Rp 250.000",
+    "image": "img/eyeshadow13.png",
+    "category": "eyeshadow"
+  },
+  {
+    "id": 121,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - WTB-S03 Cloud Magnolia",
+    "price": "Rp 45.000",
+    "image": "img/fl5.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 122,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - WTB-S06 Riasan Gaya Bidadari",
+    "price": "Rp 45.000",
+    "image": "img/fl6.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 123,
+    "brand": "Beauty Lashes",
+    "name": "False Eyelashes - WTB-S07 Marad",
+    "price": "Rp 45.000",
+    "image": "img/fl7.png",
+    "category": "eyelashes"
+  },
+  {
+    "id": 124,
+    "brand": "Focallure",
+    "name": "HighLight - #WT01 Moonlight Sirius",
+    "price": "Rp 55.000",
+    "image": "img/highlighter1.png",
+    "category": "highlighter"
+  },
+  {
+    "id": 125,
+    "brand": "Focallure",
+    "name": "HighLight - #PK04 Sweetheart Andromeda",
+    "price": "Rp 55.000",
+    "image": "img/highlighter2.png",
+    "category": "highlighter"
+  },
+  {
+    "id": 126,
+    "brand": "UYAAI",
+    "name": "Softlens - #Dubai Nami Gray",
+    "price": "Rp 30.000",
+    "image": "img/softlens1.png",
+    "category": "softlens"
+  },
+  {
+    "id": 127,
+    "brand": "UYAAI",
+    "name": "Softlens - #Big eyes Mirage Gray",
+    "price": "Rp 30.000",
+    "image": "img/softlens2.png",
+    "category": "softlens"
+  },
+  {
+    "id": 128,
+    "brand": "UYAAI",
+    "name": "Softlens - #Bubble Blue",
+    "price": "Rp 30.000",
+    "image": "img/softlens3.png",
+    "category": "softlens"
+  },
+  {
+    "id": 129,
+    "brand": "UYAAI",
+    "name": "Softlens - #Bubble Gray",
+    "price": "Rp 30.000",
+    "image": "img/softlens4.png",
+    "category": "softlens"
+  },
+  {
+    "id": 130,
+    "brand": "UYAAI",
+    "name": "Softlens - #Bubble Brown",
+    "price": "Rp 30.000",
+    "image": "img/softlens5.png",
+    "category": "softlens"
+  },
+  {
+    "id": 131,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 00 Slim Fixing",
+    "price": "Rp 150.000",
+    "image": "img/mascara1.png",
+    "category": "mascara"
+  },
+  {
+    "id": 132,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 01 Long Curling",
+    "price": "Rp 150.000",
+    "image": "img/mascara2.png",
+    "category": "mascara"
+  },
+  {
+    "id": 133,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 02 Volume Curling",
+    "price": "Rp 150.000",
+    "image": "img/mascara3.png",
+    "category": "mascara"
+  },
+  {
+    "id": 134,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 03 Sleek Volume",
+    "price": "Rp 150.000",
+    "image": "img/mascara4.png",
+    "category": "mascara"
+  },
+  {
+    "id": 135,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 04 Extreme Volume",
+    "price": "Rp 150.000",
+    "image": "img/mascara5.png",
+    "category": "mascara"
+  },
+  {
+    "id": 136,
+    "brand": "Clio",
+    "name": "Kill Lash Superproof Mascara - 10 Sharp Curl",
+    "price": "Rp 150.000",
+    "image": "img/mascara6.png",
+    "category": "mascara"
+  },
+  {
+    "id": 137,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G01 Brick Fever",
+    "price": "Rp 85.000",
+    "image": "img/lipgloss1.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 138,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G02 Rose Rebel",
+    "price": "Rp 85.000",
+    "image": "img/lipgloss2.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 139,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G03 Coral Clash",
+    "price": "Rp 85.000",
+    "image": "img/lipgloss3.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 140,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G04 Peach Crush",
+    "price": "Rp 85.000",
+    "image": "img/lipsgloss4.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 141,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G10 Blush Babe",
+    "price": "Rp 85.000",
+    "image": "img/lipsgloss5.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 142,
+    "brand": "Colorkey",
+    "name": "Light Chaser Lip Plumping Gloss - G12 Latte Glow",
+    "price": "Rp 85.000",
+    "image": "img/lipgloss6.png",
+    "category": "lipgloss"
+  },
+  {
+    "id": 143,
+    "brand": "BLP Beauty",
+    "name": "Lip Liner - Classic Beige",
+    "price": "Rp 89.000",
+    "image": "img/lipliner1.png",
+    "category": "lipliner"
+  },
+  {
+    "id": 144,
+    "brand": "BLP Beauty",
+    "name": "Lip Liner - Dusty Rose",
+    "price": "Rp 89.000",
+    "image": "img/lipliner2.png",
+    "category": "lipliner"
+  },
+  {
+    "id": 145,
+    "brand": "BLP Beauty",
+    "name": "Lip Liner - Winter Berry",
+    "price": "Rp 89.000",
+    "image": "img/lipliner3.png",
+    "category": "lipliner"
+  },
+  {
+    "id": 146,
+    "brand": "BLP Beauty",
+    "name": "Lip Liner - Toasted Brown",
+    "price": "Rp 89.000",
+    "image": "img/lipliner4.png",
+    "category": "lipliner"
+  }
+]

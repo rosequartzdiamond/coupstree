@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coupstree | Personalized Makeup</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header>
+        <nav class="navbar">
+            <h1 class="logo" onclick="navigateTo('home-section')">Coupstree</h1>
+            <ul class="nav-links">
+    <li><button onclick="showSection('product-section')">Product</button></li>
+    <li><button onclick="showSection('find-urs-section')">Find Urs</button></li>
+    <li><button onclick="showSection('cart-section')">Cart<span id="cart-count" style="background: var(--accent-color); color: white; padding: 2px 6px; border-radius: 50%; font-size: 0.7rem; margin-left: 5px;">0</span>
+    </button></li>
+    <li><button onclick="showSection('about-section')">About</button></li>
+</ul>
+        </nav>
+    </header>
+
+    <!-- WADAH UTAMA HALAMAN (SPA) -->
+    <main id="main-content">
+
+        <!-- ========================================== -->
+        <!-- 1. LANDING PAGE & HOME SECTION -->
+        <!-- ========================================== -->
+        <section id="home-section" class="page-section active">
+            
+            <!-- About the Website (Statis) -->
+            <div class="intro-box">
+                <h1 class="hero-title">Welcome to COUPSTREE!</h1>
+            </div>
+
+            <!-- Promo Slider (Auto Slide) -->
+            <div class="slider-container" id="promo-slider">
+                <div class="slider-wrapper">
+                    <div class="slide">
+                        <img src="assets/Toasty_Set_Sale(1).png" alt="Bundle Hemat" class="slide-img">
+                    </div>
+                    <div class="slide">
+                        <img src="assets/Glam_Collection_Sale(1).png" alt="Bundle Hemat" class="slide-img">
+                    </div>
+            </div>
+        </div>
+
+            <!-- Catalogue Slider (Auto Slide) -->
+            <div class="slider-container" id="catalogue-slider">
+                <div class="slider-wrapper">
+                    <div class="slide">
+                        <img src="assets/Summer_Pick1.png" alt="Katalog Baru" class="slide-img">
+                    </div>
+                    <div class="slide">
+                        <img src="assets/Summer_Pick2.png" alt="Katalog Baru" class="slide-img">
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recommendation Display (Tab Menu) -->
+            <div class="intro-box">
+                <h2>Featured Products</h2>
+                <div class="recom-tabs">
+                    <button class="tab-btn active" onclick="showHomeTabs('newest')">Newest Released</button>
+                    <button class="tab-btn" onclick="showHomeTabs('discount')">Discount</button>
+                </div>
+            </div>
+
+            <div id="newest" class="product-grid active-grid">
+    <div class="product-box">
+        <img src="img/blush8.png" alt="Produk Baru 1" class="box-img">
+        <div class="box-info">
+            <p class="box-title">JudyDoll - Powder Blush - 48 Ash Pink</p>
+            <p class="box-price">Rp 70.000</p>
+            <button class="add-cart-btn" onclick="addToCart('JudyDoll - Powder Blush - 48 Ash Pink', 'Rp 70.000', 'img/blush8.png')">Add to Cart</button>
+        </div>
+    </div>
+    <div class="product-box">
+        <img src="img/lip8.png" alt="Produk Baru 2" class="box-img">
+        <div class="box-info">
+            <p class="box-title">Muzigae Mansion - Velvet Matte Lipstick - 08 Dominant</p>
+            <p class="box-price">Rp 130.000</p>
+            <button class="add-cart-btn" onclick="addToCart('Muzigae Mansion - Velvet Matte Lipstick - 08 Dominant', 'Rp 130.000', 'img/lip8.png')">Add to Cart</button>
+        </div>
+    </div>
+    <div class="product-box">
+        <img src="img/eyeliner1.png" alt="Produk Baru 3" class="box-img">
+        <div class="box-info">
+            <p class="box-title">MAANGE - Eyeliner - #B101 Black</p>
+            <p class="box-price">Rp 35.000</p>
+            <button class="add-cart-btn" onclick="addToCart('MAANGE - Eyeliner - #B101 Black', 'Rp 35.000', 'img/eyeliner1.png')">Add to Cart</button>
+        </div>
+    </div>
+</div>
+
+            <div id="discount" class="product-grid" style="display: none;">
+    <div class="product-box">
+        <img src="img/blush5.png" alt="Produk Diskon 1" class="box-img">
+        <div class="box-info">
+            <p class="box-title">JudyDoll - Powder Blush - 36 Baked Milk Tea</p>
+            <p class="box-price">Rp 45.500</p>
+            <button class="add-cart-btn" onclick="addToCart('JudyDoll - Powder Blush - 36 Baked Milk Tea', 'Rp 45.500', 'img/blush5.png')">Add to Cart</button>
+        </div>
+    </div>
+    <div class="product-box">
+        <img src="img/lipsgloss5.png" alt="Produk Diskon 2" class="box-img">
+        <div class="box-info">
+            <p class="box-title">Colorkey - Light Chaser Lip Plumping Gloss - G10 Blush Babe</p>
+            <p class="box-price">Rp 70.000</p>
+            <button class="add-cart-btn" onclick="addToCart('Colorkey - Light Chaser Lip Plumping Gloss - G10 Blush Babe', 'Rp 70.000', 'img/lipsgloss5.png')">Add to Cart</button>
+        </div>
+    </div>
+    <div class="product-box">
+        <img src="img/mascara5.png" alt="Produk Diskon 3" class="box-img">
+        <div class="box-info">
+            <p class="box-title">Clio - Kill Lash Superproof Mascara - 04 Extreme Volume</p>
+            <p class="box-price">Rp 81.250</p>
+            <button class="add-cart-btn" onclick="addToCart('Clio - Kill Lash Superproof Mascara - 04 Extreme Volume', 'Rp 81.250', 'img/mascara5.png')">Add to Cart</button>
+        </div>
+    </div>
+</div>
+        </section>
+        <!-- ========================================== -->
+        <!-- 2. PRODUCT SECTION -->
+        <!-- ========================================== -->
+        <section id="product-section" class="page-section">
+            <h2 class="section-title">Our Catalogue</h2>
+           <div class="product-categories">
+    <button onclick="fetchProductData('base')">Base Makeup</button>
+    <button onclick="fetchProductData('eye')">Eye Makeup</button>
+    <button onclick="fetchProductData('lip')">Lip Product</button>
+    <button onclick="fetchProductData('others')">Others</button> 
+</div>
+
+            <div id="api-product-display" class="api-grid">
+                <p style="text-align: center; width: 100%;">Pilih kategori di atas untuk melihat produk.</p>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- 3. FIND URS SECTION (Kuis Bertahap) -->
+        <!-- ========================================== -->
+        <section id="find-urs-section" class="page-section">
+            
+            <div id="quiz-step-1" class="quiz-step active-step">
+                <h2 class="section-title">Step 1: Choose Your Skintone</h2>
+                <div class="color-options">
+                    <div class="color-box" style="background-color: #f1c27d;" onclick="nextQuizStep('quiz-step-2', 'skintone', 'Light')"></div>
+                    <div class="color-box" style="background-color: #e0ac69;" onclick="nextQuizStep('quiz-step-2', 'skintone', 'Medium')"></div>
+                    <div class="color-box" style="background-color: #8d5524;" onclick="nextQuizStep('quiz-step-2', 'skintone', 'Dark')"></div>
+                </div>
+            </div>
+
+            <div id="quiz-step-2" class="quiz-step">
+                <h2 class="section-title">Step 2: Choose Your Undertone</h2>
+                <div class="quiz-buttons">
+                    <button onclick="nextQuizStep('quiz-step-3', 'undertone', 'Warm')">Warm</button>
+                    <button onclick="nextQuizStep('quiz-step-3', 'undertone', 'Neutral')">Neutral</button>
+                    <button onclick="nextQuizStep('quiz-step-3', 'undertone', 'Cool')">Cool</button>
+                </div>
+            </div>
+
+            <div id="quiz-step-3" class="quiz-step">
+    <h2 class="section-title">Step 3: Choose Makeup Style</h2>
+    <div class="quiz-buttons">
+        <div class="quiz-option" onclick="finishQuiz('Natural Look')">
+            <img src="img/Natural_Makeup.jpg" alt="Natural">
+            <p>Natural Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Latina Look')">
+            <img src="img/Latina_Makeup.jpg" alt="Latina">
+            <p>Latina Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Douyin Look')">
+            <img src="img/Douyin_Makeup.jpg" alt="Douyin">
+            <p>Douyin Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Korean Look')">
+            <img src="img/Korean_Makeup.jpg" alt="Korean">
+            <p>Korean Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Glam Look')">
+            <img src="img/Glam_Makeup.jpg" alt="Glam">
+            <p>Glam Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Gothic Look')">
+            <img src="img/Gothic_Makeup.jpg" alt="Gothic">
+            <p>Gothic Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Toasty Look')">
+            <img src="img/Toasty_Makeup.jpg" alt="Toasty">
+            <p>Toasty Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Muted Look')">
+            <img src="img/Muted_Makeup.jpg" alt="Muted">
+            <p>Muted Look</p>
+        </div>
+        <div class="quiz-option" onclick="finishQuiz('Y2K Look')">
+            <img src="img/Y2K_Makeup.jpg" alt="Y2K">
+            <p>Y2K Look</p>
+        </div>
+    </div>
+</div>
+
+            <div id="quiz-result" class="quiz-step">
+                <h2 class="section-title">Your Perfect Match!</h2>
+                <div id="recommendation-output" class="result-box"></div>
+                <button class="reset-btn" onclick="resetQuiz()">Ulangi Kuis</button>
+            </div>
+        </section>
+
+        <!-- ========================================== -->
+        <!-- 4. CART SECTION -->
+        <!-- ========================================== -->
+       <section id="cart-section" class="page-section">
+    <h2 class="section-title">Shopping Cart</h2>
+    <div class="cart-container" style="max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05);">
+        <div id="cart-items-list">
+            <p style="text-align: center;">Keranjang belanja masih kosong</p>
+        </div>
+        
+        <div class="cart-summary" style="margin-top: 30px; border-top: 2px solid var(--brand-dark); padding-top: 20px; text-align: right;">
+            <h3>Total: <span id="cart-total-price">Rp 0</span></h3>
+            <button class="add-cart-btn" style="width: auto; margin-top: 20px; padding: 12px 30px;" onclick="alert('Terima kasih sudah berbelanja di Coupstree!')">Checkout Sekarang</button>
+        </div>
+    </div>
+</section>
+
+        <!-- ========================================== -->
+        <!-- 5. ABOUT SECTION -->
+        <!-- ========================================== -->
+        <section id="about-section" class="page-section">
+            <div class="about-grid">
+                <div class="about-card">
+                    <h2>About The Company</h2>
+                    <p>Coupstree adalah platform multi brand makeup yang dirancang untuk membantu setiap orang menemukan produk makeup yang paling sesuai dengan diri mereka. Kami percaya bahwa makeup bukan hanya tentang mengikuti tren, tetapi juga tentang menemukan warna, tekstur, dan style yang benar-benar cocok dengan karakter masing-masing pengguna.</p>
+                </div>
+                <div class="about-card">
+                    <h2>About The Developer</h2>
+                    <p>Halo! Saya adalah developer sekaligus creator di balik Coupstree. Website ini dibuat dari ketertarikan saya terhadap dunia beauty dan teknologi, terutama bagaimana teknologi dapat membantu orang menemukan produk makeup yang lebih cocok dengan kebutuhan mereka.
+
+Melalui Coupstree, saya ingin menciptakan platform yang tidak hanya menjadi tempat mencari produk makeup, tetapi juga menjadi pengalaman yang personal dan menyenangkan bagi pengguna. Karena setiap orang memiliki karakteristik kulit, undertone, dan style makeup yang berbeda, saya membuat fitur quiz recommendation untuk membantu pengguna menemukan produk yang lebih sesuai dengan preferensi mereka.
+
+Selain mengembangkan website ini, saya juga memiliki minat pada desain, branding, dan user experience agar Coupstree dapat terasa aesthetic, nyaman digunakan, dan memiliki identitas yang kuat sebagai beauty platform modern.</p>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-content">
+            <h3>Aura Beauty</h3>
+            <p>Personalized makeup for every skin tone and style.</p>
+        </div>
+        <p style="margin-top: 10px; font-size: 0.8rem;">&copy; 2026 Aura Beauty. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
