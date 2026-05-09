@@ -357,3 +357,36 @@ main {
     flex: 1;
     padding-bottom: 50px; /* Memberi ruang untuk tombol reset */
 }
+/* Penyesuaian untuk layar Tablet / HP Layar Besar */
+@media (max-width: 768px) {
+    .product-grid, #api-product-display {
+        grid-template-columns: repeat(2, 1fr); /* Jadi 2 kolom */
+        padding: 0 15px;
+    }
+    
+    #quiz-step-3 .quiz-buttons {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Penyesuaian untuk layar HP Biasa */
+@media (max-width: 480px) {
+    .product-grid, #api-product-display {
+        grid-template-columns: 1fr; /* Jadi 1 kolom memanjang ke bawah */
+    }
+    
+    #quiz-step-3 .quiz-buttons {
+        grid-template-columns: 1fr;
+    }
+    
+    .navbar {
+        flex-direction: column;
+        padding: 15px;
+        gap: 15px;
+    }
+    
+    .nav-links {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
